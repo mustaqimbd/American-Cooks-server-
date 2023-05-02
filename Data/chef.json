@@ -1,0 +1,52 @@
+{
+    "chefs": [
+        {
+            "id": 1,
+            "name": "Gordon Ramsay",
+            "yearsOfExperience": 35,
+            "numberOfRecipes": 1000,
+            "likes": 5000000,
+            "pictureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Gordon_Ramsay_June_2006.jpg/220px-Gordon_Ramsay_June_2006.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Ina Garten",
+            "yearsOfExperience": 30,
+            "numberOfRecipes": 600,
+            "likes": 2000000,
+            "pictureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ina_Garten_at_Barnes_%26_Noble.JPG/220px-Ina_Garten_at_Barnes_%26_Noble.JPG"
+        },
+        {
+            "id": 3,
+            "name": "Bobby Flay",
+            "yearsOfExperience": 25,
+            "numberOfRecipes": 800,
+            "likes": 1500000,
+            "pictureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bobby_Flay_at_the_2012_Tribeca_Film_Festival.jpg/220px-Bobby_Flay_at_the_2012_Tribeca_Film_Festival.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Martha Stewart",
+            "yearsOfExperience": 40,
+            "numberOfRecipes": 1200,
+            "likes": 2500000,
+            "pictureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Martha_Stewart_2011_Shankbone.JPG/220px-Martha_Stewart_2011_Shankbone.JPG"
+        },
+        {
+            "id": 5,
+            "name": "Emeril Lagasse",
+            "yearsOfExperience": 30,
+            "numberOfRecipes": 700,
+            "likes": 1000000,
+            "pictureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Emeril_Lagasse_and_1st_Fighter_Wing_Airmen_150409-F-QT695-001.jpg/220px-Emeril_Lagasse_and_1st_Fighter_Wing_Airmen_150409-F-QT695-001.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Alton Brown",
+            "yearsOfExperience": 25,
+            "numberOfRecipes": 500,
+            "likes": 1200000,
+            "pictureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Alton_Brown_2011.jpg/220px-Alton_Brown_2011.jpg"
+        }
+    ]
+}
