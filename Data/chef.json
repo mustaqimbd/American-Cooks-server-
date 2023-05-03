@@ -11,6 +11,7 @@
             "recipes": [
                 {
                     "name": "Beef Wellington",
+                    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2012/09/Beef-wellington-d4f3320.jpg?quality=90&webp=true&resize=300,272",
                     "ingredients": [
                         "beef tenderloin",
                         "prosciutto",
@@ -23,6 +24,7 @@
                 },
                 {
                     "name": "Scrambled Eggs",
+                    "image": "https://cdn.loveandlemons.com/wp-content/uploads/2021/05/scrambled-eggs-1-580x851.jpg",
                     "ingredients": [
                         "eggs",
                         "butter",
@@ -32,6 +34,32 @@
                     ],
                     "cookingMethod": "Whisk eggs with salt, pepper, and heavy cream. Melt butter in a nonstick pan over low heat, then add the egg mixture. Stir constantly until the eggs are cooked to your desired consistency. Serve hot.",
                     "rating": 4.2
+                },
+                {
+                    "name": "Beef Wellington",
+                    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2012/09/Beef-wellington-d4f3320.jpg?quality=90&webp=true&resize=300,272",
+                    "ingredients": [
+                        "beef tenderloin",
+                        "prosciutto",
+                        "mushrooms",
+                        "puff pastry",
+                        "egg wash"
+                    ],
+                    "cookingMethod": "Preheat oven to 425°F. Sear the beef tenderloin, then layer it with prosciutto and mushroom duxelles. Wrap in puff pastry and brush with egg wash. Bake for 35-40 minutes until golden brown and cooked to medium-rare. Let rest for 10 minutes before slicing and serving.",
+                    "rating": 4.8
+                },
+                {
+                    "name": "Beef Wellington",
+                    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2012/09/Beef-wellington-d4f3320.jpg?quality=90&webp=true&resize=300,272",
+                    "ingredients": [
+                        "beef tenderloin",
+                        "prosciutto",
+                        "mushrooms",
+                        "puff pastry",
+                        "egg wash"
+                    ],
+                    "cookingMethod": "Preheat oven to 425°F. Sear the beef tenderloin, then layer it with prosciutto and mushroom duxelles. Wrap in puff pastry and brush with egg wash. Bake for 35-40 minutes until golden brown and cooked to medium-rare. Let rest for 10 minutes before slicing and serving.",
+                    "rating": 4.8
                 }
             ]
         },
@@ -46,6 +74,7 @@
             "recipes": [
                 {
                     "name": "Roasted Lemon Chicken",
+                    "image": "https://cafedelites.com/wp-content/uploads/2018/05/Jambalaya-IMAGE-54-1365x2048.jpg",
                     "ingredients": [
                         "1 3-4 lb. whole chicken",
                         "2 lemons",
@@ -58,6 +87,7 @@
                 },
                 {
                     "name": "Baked Fontina",
+                    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2012/09/Beef-wellington-d4f3320.jpg?quality=90&webp=true&resize=300,272",
                     "ingredients": [
                         "1 lb. Fontina cheese",
                         "2 cloves garlic",
@@ -67,6 +97,32 @@
                     ],
                     "cookingMethod": "Preheat the oven to 400 degrees F. Cut the Fontina cheese into small cubes and place them in a baking dish. Mince the garlic and sprinkle it over the cheese. Strip the thyme and rosemary leaves from the stems and sprinkle them over the cheese as well. Drizzle the olive oil over the top. Bake for 10-15 minutes, or until the cheese is melted and bubbly. Serve with bread or crackers.",
                     "rating": 4.8
+                },
+                {
+                    "name": "Roasted Lemon Chicken",
+                    "image": "https://cafedelites.com/wp-content/uploads/2018/05/Jambalaya-IMAGE-54-1365x2048.jpg",
+                    "ingredients": [
+                        "1 3-4 lb. whole chicken",
+                        "2 lemons",
+                        "2 tbsp. unsalted butter",
+                        "1 tsp. dried thyme",
+                        "1 tsp. garlic powder"
+                    ],
+                    "cookingMethod": "Preheat the oven to 425 degrees F. Cut the lemons in half and place them in the cavity of the chicken. Rub the butter all over the chicken and sprinkle with the thyme and garlic powder. Place the chicken in a roasting pan and roast for 1 1/2 to 2 hours, or until the internal temperature reaches 165 degrees F. Let the chicken rest for 10-15 minutes before carving.",
+                    "rating": 4.5
+                },
+                {
+                    "name": "Roasted Lemon Chicken",
+                    "image": "https://cafedelites.com/wp-content/uploads/2018/05/Jambalaya-IMAGE-54-1365x2048.jpg",
+                    "ingredients": [
+                        "1 3-4 lb. whole chicken",
+                        "2 lemons",
+                        "2 tbsp. unsalted butter",
+                        "1 tsp. dried thyme",
+                        "1 tsp. garlic powder"
+                    ],
+                    "cookingMethod": "Preheat the oven to 425 degrees F. Cut the lemons in half and place them in the cavity of the chicken. Rub the butter all over the chicken and sprinkle with the thyme and garlic powder. Place the chicken in a roasting pan and roast for 1 1/2 to 2 hours, or until the internal temperature reaches 165 degrees F. Let the chicken rest for 10-15 minutes before carving.",
+                    "rating": 4.5
                 }
             ]
         },
@@ -81,6 +137,7 @@
             "recipes": [
                 {
                     "name": "Grilled Steak with Chimichurri Sauce",
+                    "image": "https://www.thespruceeats.com/thmb/2VjmwngG_vwtAWbGRcTLKeihEZk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/connecticut-style-lobster-roll-recipe-5496594-hero-05-26128df34866403997c3b15cb345f18d.jpg",
                     "ingredients": [
                         "2 lb. flank steak",
                         "1/2 cup olive oil",
@@ -96,6 +153,7 @@
                 },
                 {
                     "name": "Crunchy Fried Chicken",
+                    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2012/09/Beef-wellington-d4f3320.jpg?quality=90&webp=true&resize=300,272",
                     "ingredients": [
                         "4 bone-in chicken breasts",
                         "2 cups buttermilk",
@@ -109,6 +167,38 @@
                     ],
                     "cookingMethod": "In a large bowl, whisk together the buttermilk, smoked paprika, garlic powder, onion powder, kosher salt, and cayenne pepper. Add the chicken breasts and toss to coat. Cover and refrigerate for at least 1 hour, or overnight. In a large, shallow dish, whisk together the flour and 2 teaspoons kosher salt. Working with one chicken breast at a time, remove from the buttermilk and dredge in the seasoned flour, pressing to adhere. Repeat with the remaining chicken breasts. Heat 1 inch of vegetable oil in a large, deep skillet until shimmering. Add the chicken and fry, turning occasionally, until golden brown and cooked through, about 20 minutes. Drain on paper towels and serve hot.",
                     "rating": 4.5
+                },
+                {
+                    "name": "Grilled Steak with Chimichurri Sauce",
+                    "image": "https://www.thespruceeats.com/thmb/2VjmwngG_vwtAWbGRcTLKeihEZk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/connecticut-style-lobster-roll-recipe-5496594-hero-05-26128df34866403997c3b15cb345f18d.jpg",
+                    "ingredients": [
+                        "2 lb. flank steak",
+                        "1/2 cup olive oil",
+                        "1/4 cup red wine vinegar",
+                        "1/4 cup chopped fresh parsley",
+                        "3 garlic cloves, minced",
+                        "1 shallot, minced",
+                        "1/2 tsp. red pepper flakes",
+                        "Kosher salt and freshly ground black pepper"
+                    ],
+                    "cookingMethod": "Season the flank steak generously with salt and pepper. Preheat a grill or grill pan over high heat. Grill the steak for 5 to 6 minutes per side for medium-rare. Let the steak rest for 5 minutes before slicing. Meanwhile, in a medium bowl, whisk together the olive oil, red wine vinegar, parsley, garlic, shallot, red pepper flakes, and 1/2 teaspoon each salt and black pepper. Drizzle the chimichurri sauce over the sliced steak and serve.",
+                    "rating": 4.8
+                },
+                {
+                    "name": "Grilled Steak with Chimichurri Sauce",
+                    "image": "https://www.thespruceeats.com/thmb/2VjmwngG_vwtAWbGRcTLKeihEZk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/connecticut-style-lobster-roll-recipe-5496594-hero-05-26128df34866403997c3b15cb345f18d.jpg",
+                    "ingredients": [
+                        "2 lb. flank steak",
+                        "1/2 cup olive oil",
+                        "1/4 cup red wine vinegar",
+                        "1/4 cup chopped fresh parsley",
+                        "3 garlic cloves, minced",
+                        "1 shallot, minced",
+                        "1/2 tsp. red pepper flakes",
+                        "Kosher salt and freshly ground black pepper"
+                    ],
+                    "cookingMethod": "Season the flank steak generously with salt and pepper. Preheat a grill or grill pan over high heat. Grill the steak for 5 to 6 minutes per side for medium-rare. Let the steak rest for 5 minutes before slicing. Meanwhile, in a medium bowl, whisk together the olive oil, red wine vinegar, parsley, garlic, shallot, red pepper flakes, and 1/2 teaspoon each salt and black pepper. Drizzle the chimichurri sauce over the sliced steak and serve.",
+                    "rating": 4.8
                 }
             ]
         },
@@ -120,20 +210,53 @@
             "likes": 2500000,
             "pictureUrl": "https://loveincorporated.blob.core.windows.net/contentimages/gallery/15b42f21-de85-4337-9877-e3df70bf99e0-martha-stewart-lead.jpg",
             "bio": "Martha Stewart is an American media personality, businesswoman, and author. She is best known for her television shows, books, and magazines about homemaking, cooking, and entertaining. Stewart has written numerous bestselling books on cooking and entertaining, and has hosted several popular TV shows, including \"Martha Stewart Living\" and \"The Martha Stewart Show\".",
-            "recipe": {
-                "name": "Lobster Rolls",
-                "ingredients": [
-                    "1 1/2 pounds cooked lobster meat, chilled",
-                    "1/2 cup mayonnaise",
-                    "2 tablespoons fresh lemon juice",
-                    "2 tablespoons finely chopped fresh chives",
-                    "Salt and freshly ground black pepper",
-                    "6 top-split hot dog buns",
-                    "3 tablespoons unsalted butter, melted"
-                ],
-                "cookingMethod": "1. In a large bowl, mix together the lobster meat, mayonnaise, lemon juice, chives, salt, and pepper. Chill until ready to use.\n2. Preheat a grill or grill pan to medium-high heat. Brush the inside of each bun with melted butter.\n3. Grill the buns, butter side down, until toasted, about 1 minute.\n4. Divide the lobster mixture among the buns and serve immediately.",
-                "rating": 4.8
-            }
+            "recipes": [
+                {
+                    "name": "Lobster Rolls",
+                    "image": "https://www.foodandwine.com/thmb/ZRQWVkrrpkwypbVdM6irFMycfkc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/200804-r-herb-roasted-chicken-d02d649f6e60441b8baf0bb5ef28fcdf.jpg",
+                    "ingredients": [
+                        "1 1/2 pounds cooked lobster meat, chilled",
+                        "1/2 cup mayonnaise",
+                        "2 tablespoons fresh lemon juice",
+                        "2 tablespoons finely chopped fresh chives",
+                        "Salt and freshly ground black pepper",
+                        "6 top-split hot dog buns",
+                        "3 tablespoons unsalted butter, melted"
+                    ],
+                    "cookingMethod": "1. In a large bowl, mix together the lobster meat, mayonnaise, lemon juice, chives, salt, and pepper. Chill until ready to use. 2. Preheat a grill or grill pan to medium-high heat. Brush the inside of each bun with melted butter. 3. Grill the buns, butter side down, until toasted, about 1 minute. 4. Divide the lobster mixture among the buns and serve immediately.",
+                    "rating": 4.8
+                },
+                {
+                    "name": "Lobster Rolls",
+                    "image": "https://www.foodandwine.com/thmb/ZRQWVkrrpkwypbVdM6irFMycfkc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/200804-r-herb-roasted-chicken-d02d649f6e60441b8baf0bb5ef28fcdf.jpg",
+                    "ingredients": [
+                        "1 1/2 pounds cooked lobster meat, chilled",
+                        "1/2 cup mayonnaise",
+                        "2 tablespoons fresh lemon juice",
+                        "2 tablespoons finely chopped fresh chives",
+                        "Salt and freshly ground black pepper",
+                        "6 top-split hot dog buns",
+                        "3 tablespoons unsalted butter, melted"
+                    ],
+                    "cookingMethod": "1. In a large bowl, mix together the lobster meat, mayonnaise, lemon juice, chives, salt, and pepper. Chill until ready to use. 2. Preheat a grill or grill pan to medium-high heat. Brush the inside of each bun with melted butter. 3. Grill the buns, butter side down, until toasted, about 1 minute. 4. Divide the lobster mixture among the buns and serve immediately.",
+                    "rating": 4.8
+                },
+                {
+                    "name": "Lobster Rolls",
+                    "image": "https://www.foodandwine.com/thmb/ZRQWVkrrpkwypbVdM6irFMycfkc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/200804-r-herb-roasted-chicken-d02d649f6e60441b8baf0bb5ef28fcdf.jpg",
+                    "ingredients": [
+                        "1 1/2 pounds cooked lobster meat, chilled",
+                        "1/2 cup mayonnaise",
+                        "2 tablespoons fresh lemon juice",
+                        "2 tablespoons finely chopped fresh chives",
+                        "Salt and freshly ground black pepper",
+                        "6 top-split hot dog buns",
+                        "3 tablespoons unsalted butter, melted"
+                    ],
+                    "cookingMethod": "1. In a large bowl, mix together the lobster meat, mayonnaise, lemon juice, chives, salt, and pepper. Chill until ready to use. 2. Preheat a grill or grill pan to medium-high heat. Brush the inside of each bun with melted butter. 3. Grill the buns, butter side down, until toasted, about 1 minute. 4. Divide the lobster mixture among the buns and serve immediately.",
+                    "rating": 4.8
+                }
+            ]
         },
         {
             "id": 5,
@@ -143,26 +266,77 @@
             "likes": 1000000,
             "pictureUrl": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2008/8/8/0/79660_02_Emeril_s4x3.jpg.rend.hgtvcom.616.462.suffix/1383083796096.jpeg",
             "bio": "Emeril Lagasse is a celebrity chef and restaurateur, known for his mastery of Creole and Cajun cuisine. He has hosted several cooking shows, including Emeril Live and Emeril's Florida, and has published over 20 cookbooks. Lagasse has received numerous awards for his culinary achievements and philanthropic work.",
-            "recipeName": "Creole Jambalaya",
-            "ingredients": [
-                "1 lb. andouille sausage, sliced",
-                "1 lb. boneless, skinless chicken thighs, cut into bite-sized pieces",
-                "1 onion, chopped",
-                "1 green bell pepper, chopped",
-                "3 stalks celery, chopped",
-                "3 cloves garlic, minced",
-                "2 cups long-grain white rice",
-                "1 can (14.5 oz) diced tomatoes",
-                "3 cups chicken broth",
-                "1 tsp. dried thyme",
-                "1 tsp. smoked paprika",
-                "1/2 tsp. cayenne pepper",
-                "1/2 tsp. black pepper",
-                "Salt to taste",
-                "Chopped scallions, for garnish"
-            ],
-            "cookingMethod": "1. Heat a large Dutch oven or heavy-bottomed pot over medium-high heat. Add the sliced andouille sausage and cook until browned, about 5 minutes. Remove with a slotted spoon and set aside. 2. Add the chicken to the pot and cook until browned, about 5 minutes. Remove with a slotted spoon and set aside. 3. Add the onion, bell pepper, celery, and garlic to the pot and sauté until the vegetables are soft, about 5 minutes. 4. Add the rice, diced tomatoes (with their juices), chicken broth, thyme, smoked paprika, cayenne pepper, black pepper, and salt to the pot. Stir well to combine. 5. Bring the mixture to a boil, then reduce the heat to low and cover. Simmer for 20-25 minutes, or until the rice is tender and the liquid is absorbed. 6. Stir in the cooked sausage and chicken. Cook for an additional 5 minutes to heat through. 7. Serve hot, garnished with chopped scallions.",
-            "rating": 4.8
+            "recipes": [
+                {
+                    "name": "Creole Jambalaya",
+                    "image": "https://www.foodandwine.com/thmb/ZRQWVkrrpkwypbVdM6irFMycfkc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/200804-r-herb-roasted-chicken-d02d649f6e60441b8baf0bb5ef28fcdf.jpg",
+                    "ingredients": [
+                        "1 lb. andouille sausage, sliced",
+                        "1 lb. boneless, skinless chicken thighs, cut into bite-sized pieces",
+                        "1 onion, chopped",
+                        "1 green bell pepper, chopped",
+                        "3 stalks celery, chopped",
+                        "3 cloves garlic, minced",
+                        "2 cups long-grain white rice",
+                        "1 can (14.5 oz) diced tomatoes",
+                        "3 cups chicken broth",
+                        "1 tsp. dried thyme",
+                        "1 tsp. smoked paprika",
+                        "1/2 tsp. cayenne pepper",
+                        "1/2 tsp. black pepper",
+                        "Salt to taste",
+                        "Chopped scallions, for garnish"
+                    ],
+                    "cookingMethod": "1. Heat a large Dutch oven or heavy-bottomed pot over medium-high heat. Add the sliced andouille sausage and cook until browned, about 5 minutes. Remove with a slotted spoon and set aside. 2. Add the chicken to the pot and cook until browned, about 5 minutes. Remove with a slotted spoon and set aside. 3. Add the onion, bell pepper, celery, and garlic to the pot and sauté until the vegetables are soft, about 5 minutes. 4. Add the rice, diced tomatoes (with their juices), chicken broth, thyme, smoked paprika, cayenne pepper, black pepper, and salt to the pot. Stir well to combine. 5. Bring the mixture to a boil, then reduce the heat to low and cover. Simmer for 20-25 minutes, or until the rice is tender and the liquid is absorbed. 6. Stir in the cooked sausage and chicken. Cook for an additional 5 minutes to heat through. 7. Serve hot, garnished with chopped scallions.",
+                    "rating": 4.8
+                },
+                {
+                    "name": "Creole Jambalaya",
+                    "image": "https://www.foodandwine.com/thmb/ZRQWVkrrpkwypbVdM6irFMycfkc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/200804-r-herb-roasted-chicken-d02d649f6e60441b8baf0bb5ef28fcdf.jpg",
+                    "ingredients": [
+                        "1 lb. andouille sausage, sliced",
+                        "1 lb. boneless, skinless chicken thighs, cut into bite-sized pieces",
+                        "1 onion, chopped",
+                        "1 green bell pepper, chopped",
+                        "3 stalks celery, chopped",
+                        "3 cloves garlic, minced",
+                        "2 cups long-grain white rice",
+                        "1 can (14.5 oz) diced tomatoes",
+                        "3 cups chicken broth",
+                        "1 tsp. dried thyme",
+                        "1 tsp. smoked paprika",
+                        "1/2 tsp. cayenne pepper",
+                        "1/2 tsp. black pepper",
+                        "Salt to taste",
+                        "Chopped scallions, for garnish"
+                    ],
+                    "cookingMethod": "1. Heat a large Dutch oven or heavy-bottomed pot over medium-high heat. Add the sliced andouille sausage and cook until browned, about 5 minutes. Remove with a slotted spoon and set aside. 2. Add the chicken to the pot and cook until browned, about 5 minutes. Remove with a slotted spoon and set aside. 3. Add the onion, bell pepper, celery, and garlic to the pot and sauté until the vegetables are soft, about 5 minutes. 4. Add the rice, diced tomatoes (with their juices), chicken broth, thyme, smoked paprika, cayenne pepper, black pepper, and salt to the pot. Stir well to combine. 5. Bring the mixture to a boil, then reduce the heat to low and cover. Simmer for 20-25 minutes, or until the rice is tender and the liquid is absorbed. 6. Stir in the cooked sausage and chicken. Cook for an additional 5 minutes to heat through. 7. Serve hot, garnished with chopped scallions.",
+                    "rating": 4.8
+                },
+                {
+                    "name": "Creole Jambalaya",
+                    "image": "https://www.foodandwine.com/thmb/ZRQWVkrrpkwypbVdM6irFMycfkc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/200804-r-herb-roasted-chicken-d02d649f6e60441b8baf0bb5ef28fcdf.jpg",
+                    "ingredients": [
+                        "1 lb. andouille sausage, sliced",
+                        "1 lb. boneless, skinless chicken thighs, cut into bite-sized pieces",
+                        "1 onion, chopped",
+                        "1 green bell pepper, chopped",
+                        "3 stalks celery, chopped",
+                        "3 cloves garlic, minced",
+                        "2 cups long-grain white rice",
+                        "1 can (14.5 oz) diced tomatoes",
+                        "3 cups chicken broth",
+                        "1 tsp. dried thyme",
+                        "1 tsp. smoked paprika",
+                        "1/2 tsp. cayenne pepper",
+                        "1/2 tsp. black pepper",
+                        "Salt to taste",
+                        "Chopped scallions, for garnish"
+                    ],
+                    "cookingMethod": "1. Heat a large Dutch oven or heavy-bottomed pot over medium-high heat. Add the sliced andouille sausage and cook until browned, about 5 minutes. Remove with a slotted spoon and set aside. 2. Add the chicken to the pot and cook until browned, about 5 minutes. Remove with a slotted spoon and set aside. 3. Add the onion, bell pepper, celery, and garlic to the pot and sauté until the vegetables are soft, about 5 minutes. 4. Add the rice, diced tomatoes (with their juices), chicken broth, thyme, smoked paprika, cayenne pepper, black pepper, and salt to the pot. Stir well to combine. 5. Bring the mixture to a boil, then reduce the heat to low and cover. Simmer for 20-25 minutes, or until the rice is tender and the liquid is absorbed. 6. Stir in the cooked sausage and chicken. Cook for an additional 5 minutes to heat through. 7. Serve hot, garnished with chopped scallions.",
+                    "rating": 4.8
+                }
+            ]
         },
         {
             "id": 6,
@@ -172,24 +346,71 @@
             "likes": 1200000,
             "pictureUrl": "https://food.fnr.sndimg.com/content/dam/images/food/editorial/talent/alton-brown/FN_Alton-Brown-About.jpg.rend.hgtvcom.616.411.suffix/1457731974689.jpeg",
             "bio": "Alton Brown is a celebrity chef, food writer, and television personality, best known for hosting the Food Network shows Good Eats, Iron Chef America, and Cutthroat Kitchen. He is also the author of several cookbooks and has won numerous awards for his work in the culinary world.",
-            "recipeName": "Beef Stroganoff",
-            "ingredients": [
-                "1 lb. beef tenderloin, cut into thin strips",
-                "Salt and black pepper",
-                "2 tbsp. olive oil",
-                "1 onion, diced",
-                "2 cloves garlic, minced",
-                "8 oz. cremini mushrooms, sliced",
-                "1 tbsp. all-purpose flour",
-                "1 cup beef broth",
-                "1/2 cup sour cream",
-                "1 tbsp. Dijon mustard",
-                "1 tbsp. Worcestershire sauce",
-                "1/4 cup chopped fresh parsley",
-                "12 oz. egg noodles, cooked and drained"
-            ],
-            "cookingMethod": "1. Season the beef strips with salt and black pepper. Heat the olive oil in a large skillet over high heat. Add the beef and cook for 2-3 minutes, until browned. Remove the beef from the skillet and set aside. 2. Add the diced onion to the skillet and cook for 2-3 minutes, until softened. Add the minced garlic and sliced mushrooms and cook for an additional 3-4 minutes, until the mushrooms are browned. 3. Sprinkle the flour over the vegetables and stir to combine. Cook for 1-2 minutes, until the flour is lightly browned. 4. Add the beef broth to the skillet and stir to combine, scraping up any browned bits from the bottom of the skillet. Bring to a simmer and cook for 2-3 minutes, until the sauce has thickened slightly. 5. Remove the skillet from the heat and stir in the sour cream, Dijon mustard, Worcestershire sauce, and chopped parsley. 6. Serve the beef stroganoff over the cooked egg noodles.",
-            "rating": 4.8
+            "recipes": [
+                {
+                    "name": "Roasted lemon chicken",
+                    "image":"https://cafedelites.com/wp-content/uploads/2018/05/Jambalaya-IMAGE-54-1365x2048.jpg",
+                    "ingredients": [
+                        "1 lb. beef tenderloin, cut into thin strips",
+                        "Salt and black pepper",
+                        "2 tbsp. olive oil",
+                        "1 onion, diced",
+                        "2 cloves garlic, minced",
+                        "8 oz. cremini mushrooms, sliced",
+                        "1 tbsp. all-purpose flour",
+                        "1 cup beef broth",
+                        "1/2 cup sour cream",
+                        "1 tbsp. Dijon mustard",
+                        "1 tbsp. Worcestershire sauce",
+                        "1/4 cup chopped fresh parsley",
+                        "12 oz. egg noodles, cooked and drained"
+                    ],
+                    "cookingMethod": "1. Season the beef strips with salt and black pepper. Heat the olive oil in a large skillet over high heat. Add the beef and cook for 2-3 minutes, until browned. Remove the beef from the skillet and set aside. 2. Add the diced onion to the skillet and cook for 2-3 minutes, until softened. Add the minced garlic and sliced mushrooms and cook for an additional 3-4 minutes, until the mushrooms are browned. 3. Sprinkle the flour over the vegetables and stir to combine. Cook for 1-2 minutes, until the flour is lightly browned. 4. Add the beef broth to the skillet and stir to combine, scraping up any browned bits from the bottom of the skillet. Bring to a simmer and cook for 2-3 minutes, until the sauce has thickened slightly. 5. Remove the skillet from the heat and stir in the sour cream, Dijon mustard, Worcestershire sauce, and chopped parsley. 6. Serve the beef stroganoff over the cooked egg noodles.",
+                    "rating": 4.8
+                },
+                {
+                    "name": "Roasted lemon chicken",
+                    "image":"https://cafedelites.com/wp-content/uploads/2018/05/Jambalaya-IMAGE-54-1365x2048.jpg",
+                    "ingredients": [
+                        "1 lb. beef tenderloin, cut into thin strips",
+                        "Salt and black pepper",
+                        "2 tbsp. olive oil",
+                        "1 onion, diced",
+                        "2 cloves garlic, minced",
+                        "8 oz. cremini mushrooms, sliced",
+                        "1 tbsp. all-purpose flour",
+                        "1 cup beef broth",
+                        "1/2 cup sour cream",
+                        "1 tbsp. Dijon mustard",
+                        "1 tbsp. Worcestershire sauce",
+                        "1/4 cup chopped fresh parsley",
+                        "12 oz. egg noodles, cooked and drained"
+                    ],
+                    "cookingMethod": "1. Season the beef strips with salt and black pepper. Heat the olive oil in a large skillet over high heat. Add the beef and cook for 2-3 minutes, until browned. Remove the beef from the skillet and set aside. 2. Add the diced onion to the skillet and cook for 2-3 minutes, until softened. Add the minced garlic and sliced mushrooms and cook for an additional 3-4 minutes, until the mushrooms are browned. 3. Sprinkle the flour over the vegetables and stir to combine. Cook for 1-2 minutes, until the flour is lightly browned. 4. Add the beef broth to the skillet and stir to combine, scraping up any browned bits from the bottom of the skillet. Bring to a simmer and cook for 2-3 minutes, until the sauce has thickened slightly. 5. Remove the skillet from the heat and stir in the sour cream, Dijon mustard, Worcestershire sauce, and chopped parsley. 6. Serve the beef stroganoff over the cooked egg noodles.",
+                    "rating": 4.8
+                },
+                {
+                    "name": "Roasted lemon chicken",
+                    "image":"https://cafedelites.com/wp-content/uploads/2018/05/Jambalaya-IMAGE-54-1365x2048.jpg",
+                    "ingredients": [
+                        "1 lb. beef tenderloin, cut into thin strips",
+                        "Salt and black pepper",
+                        "2 tbsp. olive oil",
+                        "1 onion, diced",
+                        "2 cloves garlic, minced",
+                        "8 oz. cremini mushrooms, sliced",
+                        "1 tbsp. all-purpose flour",
+                        "1 cup beef broth",
+                        "1/2 cup sour cream",
+                        "1 tbsp. Dijon mustard",
+                        "1 tbsp. Worcestershire sauce",
+                        "1/4 cup chopped fresh parsley",
+                        "12 oz. egg noodles, cooked and drained"
+                    ],
+                    "cookingMethod": "1. Season the beef strips with salt and black pepper. Heat the olive oil in a large skillet over high heat. Add the beef and cook for 2-3 minutes, until browned. Remove the beef from the skillet and set aside. 2. Add the diced onion to the skillet and cook for 2-3 minutes, until softened. Add the minced garlic and sliced mushrooms and cook for an additional 3-4 minutes, until the mushrooms are browned. 3. Sprinkle the flour over the vegetables and stir to combine. Cook for 1-2 minutes, until the flour is lightly browned. 4. Add the beef broth to the skillet and stir to combine, scraping up any browned bits from the bottom of the skillet. Bring to a simmer and cook for 2-3 minutes, until the sauce has thickened slightly. 5. Remove the skillet from the heat and stir in the sour cream, Dijon mustard, Worcestershire sauce, and chopped parsley. 6. Serve the beef stroganoff over the cooked egg noodles.",
+                    "rating": 4.8
+                }
+            ]
         }
     ]
 }
