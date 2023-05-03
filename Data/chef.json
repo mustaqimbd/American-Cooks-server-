@@ -6,7 +6,34 @@
             "yearsOfExperience": 35,
             "numberOfRecipes": 1000,
             "likes": 5000000,
-            "pictureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Gordon_Ramsay_June_2006.jpg/220px-Gordon_Ramsay_June_2006.jpg"
+            "pictureUrl": "https://doerlife.com/wp-content/uploads/2019/04/Gordon-Ramsay-Image-Credits-Radio-Times.jpg",
+            "bio": "Gordon Ramsay is a British chef, restaurateur, television personality, and writer. He has been awarded a total of 16 Michelin stars in his career and is known for his fiery temper and blunt critiques. Ramsay has hosted numerous cooking shows, including Hell's Kitchen, MasterChef, and Kitchen Nightmares.",
+            "recipes": [
+                {
+                    "name": "Beef Wellington",
+                    "ingredients": [
+                        "beef tenderloin",
+                        "prosciutto",
+                        "mushrooms",
+                        "puff pastry",
+                        "egg wash"
+                    ],
+                    "cookingMethod": "Preheat oven to 425°F. Sear the beef tenderloin, then layer it with prosciutto and mushroom duxelles. Wrap in puff pastry and brush with egg wash. Bake for 35-40 minutes until golden brown and cooked to medium-rare. Let rest for 10 minutes before slicing and serving.",
+                    "rating": 4.8
+                },
+                {
+                    "name": "Scrambled Eggs",
+                    "ingredients": [
+                        "eggs",
+                        "butter",
+                        "salt",
+                        "pepper",
+                        "heavy cream"
+                    ],
+                    "cookingMethod": "Whisk eggs with salt, pepper, and heavy cream. Melt butter in a nonstick pan over low heat, then add the egg mixture. Stir constantly until the eggs are cooked to your desired consistency. Serve hot.",
+                    "rating": 4.2
+                }
+            ]
         },
         {
             "id": 2,
@@ -14,7 +41,34 @@
             "yearsOfExperience": 30,
             "numberOfRecipes": 600,
             "likes": 2000000,
-            "pictureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ina_Garten_at_Barnes_%26_Noble.JPG/220px-Ina_Garten_at_Barnes_%26_Noble.JPG"
+            "pictureUrl": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/9/29/0/BX1202H_Ina-Garten-02_s4x3.jpg.rend.hgtvcom.616.462.suffix/1475164860232.jpeg",
+            "bio": "Ina Garten is an American chef, author, and television personality. She is best known for her Barefoot Contessa cookbook series and her Food Network show of the same name. Garten's recipes often feature simple, fresh ingredients and are designed for home cooks. She has won multiple James Beard Foundation Awards for her work in the culinary world.",
+            "recipes": [
+                {
+                    "name": "Roasted Lemon Chicken",
+                    "ingredients": [
+                        "1 3-4 lb. whole chicken",
+                        "2 lemons",
+                        "2 tbsp. unsalted butter",
+                        "1 tsp. dried thyme",
+                        "1 tsp. garlic powder"
+                    ],
+                    "cookingMethod": "Preheat the oven to 425 degrees F. Cut the lemons in half and place them in the cavity of the chicken. Rub the butter all over the chicken and sprinkle with the thyme and garlic powder. Place the chicken in a roasting pan and roast for 1 1/2 to 2 hours, or until the internal temperature reaches 165 degrees F. Let the chicken rest for 10-15 minutes before carving.",
+                    "rating": 4.5
+                },
+                {
+                    "name": "Baked Fontina",
+                    "ingredients": [
+                        "1 lb. Fontina cheese",
+                        "2 cloves garlic",
+                        "1 tbsp. fresh thyme",
+                        "1 tbsp. fresh rosemary",
+                        "1 tbsp. olive oil"
+                    ],
+                    "cookingMethod": "Preheat the oven to 400 degrees F. Cut the Fontina cheese into small cubes and place them in a baking dish. Mince the garlic and sprinkle it over the cheese. Strip the thyme and rosemary leaves from the stems and sprinkle them over the cheese as well. Drizzle the olive oil over the top. Bake for 10-15 minutes, or until the cheese is melted and bubbly. Serve with bread or crackers.",
+                    "rating": 4.8
+                }
+            ]
         },
         {
             "id": 3,
@@ -22,7 +76,41 @@
             "yearsOfExperience": 25,
             "numberOfRecipes": 800,
             "likes": 1500000,
-            "pictureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bobby_Flay_at_the_2012_Tribeca_Film_Festival.jpg/220px-Bobby_Flay_at_the_2012_Tribeca_Film_Festival.jpg"
+            "pictureUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2019/03/bobby_flay-publicity-h_2019.jpg",
+            "bio": "Bobby Flay is an American celebrity chef, restaurateur, and television personality. He is the owner and executive chef of several restaurants, including Gato, Bar Americain, and Bobby's Burger Palace. Flay has hosted several cooking shows, including Food Network's 'Throwdown! with Bobby Flay' and 'Beat Bobby Flay'. He is also a regular contributor to the 'Today Show' and has published several cookbooks.",
+            "recipes": [
+                {
+                    "name": "Grilled Steak with Chimichurri Sauce",
+                    "ingredients": [
+                        "2 lb. flank steak",
+                        "1/2 cup olive oil",
+                        "1/4 cup red wine vinegar",
+                        "1/4 cup chopped fresh parsley",
+                        "3 garlic cloves, minced",
+                        "1 shallot, minced",
+                        "1/2 tsp. red pepper flakes",
+                        "Kosher salt and freshly ground black pepper"
+                    ],
+                    "cookingMethod": "Season the flank steak generously with salt and pepper. Preheat a grill or grill pan over high heat. Grill the steak for 5 to 6 minutes per side for medium-rare. Let the steak rest for 5 minutes before slicing. Meanwhile, in a medium bowl, whisk together the olive oil, red wine vinegar, parsley, garlic, shallot, red pepper flakes, and 1/2 teaspoon each salt and black pepper. Drizzle the chimichurri sauce over the sliced steak and serve.",
+                    "rating": 4.8
+                },
+                {
+                    "name": "Crunchy Fried Chicken",
+                    "ingredients": [
+                        "4 bone-in chicken breasts",
+                        "2 cups buttermilk",
+                        "2 cups all-purpose flour",
+                        "1 tbsp. smoked paprika",
+                        "1 tbsp. garlic powder",
+                        "1 tbsp. onion powder",
+                        "1 tbsp. kosher salt",
+                        "1 tsp. cayenne pepper",
+                        "Vegetable oil, for frying"
+                    ],
+                    "cookingMethod": "In a large bowl, whisk together the buttermilk, smoked paprika, garlic powder, onion powder, kosher salt, and cayenne pepper. Add the chicken breasts and toss to coat. Cover and refrigerate for at least 1 hour, or overnight. In a large, shallow dish, whisk together the flour and 2 teaspoons kosher salt. Working with one chicken breast at a time, remove from the buttermilk and dredge in the seasoned flour, pressing to adhere. Repeat with the remaining chicken breasts. Heat 1 inch of vegetable oil in a large, deep skillet until shimmering. Add the chicken and fry, turning occasionally, until golden brown and cooked through, about 20 minutes. Drain on paper towels and serve hot.",
+                    "rating": 4.5
+                }
+            ]
         },
         {
             "id": 4,
@@ -30,7 +118,22 @@
             "yearsOfExperience": 40,
             "numberOfRecipes": 1200,
             "likes": 2500000,
-            "pictureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Martha_Stewart_2011_Shankbone.JPG/220px-Martha_Stewart_2011_Shankbone.JPG"
+            "pictureUrl": "https://loveincorporated.blob.core.windows.net/contentimages/gallery/15b42f21-de85-4337-9877-e3df70bf99e0-martha-stewart-lead.jpg",
+            "bio": "Martha Stewart is an American media personality, businesswoman, and author. She is best known for her television shows, books, and magazines about homemaking, cooking, and entertaining. Stewart has written numerous bestselling books on cooking and entertaining, and has hosted several popular TV shows, including \"Martha Stewart Living\" and \"The Martha Stewart Show\".",
+            "recipe": {
+                "name": "Lobster Rolls",
+                "ingredients": [
+                    "1 1/2 pounds cooked lobster meat, chilled",
+                    "1/2 cup mayonnaise",
+                    "2 tablespoons fresh lemon juice",
+                    "2 tablespoons finely chopped fresh chives",
+                    "Salt and freshly ground black pepper",
+                    "6 top-split hot dog buns",
+                    "3 tablespoons unsalted butter, melted"
+                ],
+                "cookingMethod": "1. In a large bowl, mix together the lobster meat, mayonnaise, lemon juice, chives, salt, and pepper. Chill until ready to use.\n2. Preheat a grill or grill pan to medium-high heat. Brush the inside of each bun with melted butter.\n3. Grill the buns, butter side down, until toasted, about 1 minute.\n4. Divide the lobster mixture among the buns and serve immediately.",
+                "rating": 4.8
+            }
         },
         {
             "id": 5,
@@ -38,7 +141,28 @@
             "yearsOfExperience": 30,
             "numberOfRecipes": 700,
             "likes": 1000000,
-            "pictureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Emeril_Lagasse_and_1st_Fighter_Wing_Airmen_150409-F-QT695-001.jpg/220px-Emeril_Lagasse_and_1st_Fighter_Wing_Airmen_150409-F-QT695-001.jpg"
+            "pictureUrl": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2008/8/8/0/79660_02_Emeril_s4x3.jpg.rend.hgtvcom.616.462.suffix/1383083796096.jpeg",
+            "bio": "Emeril Lagasse is a celebrity chef and restaurateur, known for his mastery of Creole and Cajun cuisine. He has hosted several cooking shows, including Emeril Live and Emeril's Florida, and has published over 20 cookbooks. Lagasse has received numerous awards for his culinary achievements and philanthropic work.",
+            "recipeName": "Creole Jambalaya",
+            "ingredients": [
+                "1 lb. andouille sausage, sliced",
+                "1 lb. boneless, skinless chicken thighs, cut into bite-sized pieces",
+                "1 onion, chopped",
+                "1 green bell pepper, chopped",
+                "3 stalks celery, chopped",
+                "3 cloves garlic, minced",
+                "2 cups long-grain white rice",
+                "1 can (14.5 oz) diced tomatoes",
+                "3 cups chicken broth",
+                "1 tsp. dried thyme",
+                "1 tsp. smoked paprika",
+                "1/2 tsp. cayenne pepper",
+                "1/2 tsp. black pepper",
+                "Salt to taste",
+                "Chopped scallions, for garnish"
+            ],
+            "cookingMethod": "1. Heat a large Dutch oven or heavy-bottomed pot over medium-high heat. Add the sliced andouille sausage and cook until browned, about 5 minutes. Remove with a slotted spoon and set aside. 2. Add the chicken to the pot and cook until browned, about 5 minutes. Remove with a slotted spoon and set aside. 3. Add the onion, bell pepper, celery, and garlic to the pot and sauté until the vegetables are soft, about 5 minutes. 4. Add the rice, diced tomatoes (with their juices), chicken broth, thyme, smoked paprika, cayenne pepper, black pepper, and salt to the pot. Stir well to combine. 5. Bring the mixture to a boil, then reduce the heat to low and cover. Simmer for 20-25 minutes, or until the rice is tender and the liquid is absorbed. 6. Stir in the cooked sausage and chicken. Cook for an additional 5 minutes to heat through. 7. Serve hot, garnished with chopped scallions.",
+            "rating": 4.8
         },
         {
             "id": 6,
@@ -46,7 +170,26 @@
             "yearsOfExperience": 25,
             "numberOfRecipes": 500,
             "likes": 1200000,
-            "pictureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Alton_Brown_2011.jpg/220px-Alton_Brown_2011.jpg"
+            "pictureUrl": "https://food.fnr.sndimg.com/content/dam/images/food/editorial/talent/alton-brown/FN_Alton-Brown-About.jpg.rend.hgtvcom.616.411.suffix/1457731974689.jpeg",
+            "bio": "Alton Brown is a celebrity chef, food writer, and television personality, best known for hosting the Food Network shows Good Eats, Iron Chef America, and Cutthroat Kitchen. He is also the author of several cookbooks and has won numerous awards for his work in the culinary world.",
+            "recipeName": "Beef Stroganoff",
+            "ingredients": [
+                "1 lb. beef tenderloin, cut into thin strips",
+                "Salt and black pepper",
+                "2 tbsp. olive oil",
+                "1 onion, diced",
+                "2 cloves garlic, minced",
+                "8 oz. cremini mushrooms, sliced",
+                "1 tbsp. all-purpose flour",
+                "1 cup beef broth",
+                "1/2 cup sour cream",
+                "1 tbsp. Dijon mustard",
+                "1 tbsp. Worcestershire sauce",
+                "1/4 cup chopped fresh parsley",
+                "12 oz. egg noodles, cooked and drained"
+            ],
+            "cookingMethod": "1. Season the beef strips with salt and black pepper. Heat the olive oil in a large skillet over high heat. Add the beef and cook for 2-3 minutes, until browned. Remove the beef from the skillet and set aside. 2. Add the diced onion to the skillet and cook for 2-3 minutes, until softened. Add the minced garlic and sliced mushrooms and cook for an additional 3-4 minutes, until the mushrooms are browned. 3. Sprinkle the flour over the vegetables and stir to combine. Cook for 1-2 minutes, until the flour is lightly browned. 4. Add the beef broth to the skillet and stir to combine, scraping up any browned bits from the bottom of the skillet. Bring to a simmer and cook for 2-3 minutes, until the sauce has thickened slightly. 5. Remove the skillet from the heat and stir in the sour cream, Dijon mustard, Worcestershire sauce, and chopped parsley. 6. Serve the beef stroganoff over the cooked egg noodles.",
+            "rating": 4.8
         }
     ]
 }
