@@ -6,10 +6,16 @@ app.use(cors());
 
 const chefsData = require('./Data/chef.json');
 
-app.get('/', (req, res) => {
+app.get('/chefs', (req, res) => {
     res.send(chefsData)
 })
 
+app.get('/chefs/:id', (req, res) => {
+    const id = req.params.id;
+    const chef = chefsData.chefs.find(f => f.id == id)
+    // console.log(chef);
+    res.send(chef)
+})
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
 })
