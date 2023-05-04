@@ -13,7 +13,6 @@ app.get('/chefs', (req, res) => {
 app.get('/chefs/:id', (req, res) => {
     const id = req.params.id;
     const chef = chefsData.chefs.find(f => f.id == id)
-    // console.log(chef);
     res.send(chef)
 })
 app.listen(port, () => {
